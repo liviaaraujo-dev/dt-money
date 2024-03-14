@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-03-03T21:57:24.249"
+    },
+    {
+      "id": 1,
+      "description": "Energia",
+      "type": "outcome",
+      "category": "Fixo",
+      "price": 200,
+      "createdAt": "2024-03-03T21:57:24.249"
+    },
+    {
+      "description": "teste",
+      "category": "venda",
+      "price": 12,
+      "type": "income",
+      "createdAt": "2024-03-04T01:21:11.466Z",
+      "id": 2
+    },
+    {
+      "description": "computer",
+      "category": "compra",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2024-03-04T01:32:53.046Z",
+      "id": 3
+    },
+    {
+      "description": "agua",
+      "category": "fixo",
+      "price": 59,
+      "type": "outcome",
+      "createdAt": "2024-03-04T01:40:24.224Z",
+      "id": 4
+    }
+  ]
+}
